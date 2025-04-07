@@ -1,4 +1,5 @@
-# future-minds-workshop
+# CodeJam Future-Minds-workshop
+![futuremindslogo(2)](https://github.com/user-attachments/assets/d0790737-3514-43f3-8e35-3b283fbddb44)
 
 # Simple Calculator 🧮
 
